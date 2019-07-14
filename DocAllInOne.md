@@ -17,17 +17,17 @@ Build via Arduino
 Led Bulb/Light Sensor
 
 # Test Case
-push the bottom at 8:00PM >>> turn on
+LP.001:push the bottom at 8:00PM >>> turn on
 
 
-push the bottom at 8:00 AM >>>> Remain same
+LP.002:push the bottom at 8:00 AM >>>> Remain same
 
 
-during 8PM >>> Remain same
+LP.003:during 8PM >>> Remain same
 
 
 # Test Log
-Pass
+2019.7.14 Orca Pass
 
 # Issue
 Null
