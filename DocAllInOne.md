@@ -2,7 +2,7 @@
 A light which would turn on when buttom being pushed during night time.
 
 # System Sepcification
-
+No answer during daytime
 
 # System Architecture
 see Hardware Design
@@ -14,14 +14,14 @@ Build via Arduino
 Led Bulb/Light Sensor
 
 # Test Case
-
+Light Test
 
 
 # Test Log
-
+Pass
 
 # Issue
-
+Null
 
 
 # Release Notes
