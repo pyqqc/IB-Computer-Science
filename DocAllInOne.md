@@ -5,7 +5,7 @@ A light which would turn on when buttom being pushed during night time.
 No answer during daytime
 
 # System Architecture
-![image]（https://github.com/pyqqc/IB-Computer-Science/blob/master/Untitled%20Diagram.png）
+![image](https://github.com/pyqqc/IB-Computer-Science/blob/master/Untitled%20Diagram.png)
 
 # Software Design
 Build via Arduino
