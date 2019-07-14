@@ -3,6 +3,9 @@ A light which would turn on when buttom being pushed during night time.
 
 # System Sepcification
 No answer during daytime
+The light would not turn on during daytime even the buttom is pressed in order to save energy.
+
+Solution: If you really nead the light during day time you can try to cover it with your hands.
 
 # System Architecture
 ![image](https://github.com/pyqqc/IB-Computer-Science/blob/master/Untitled%20Diagram.png)
