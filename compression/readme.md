@@ -23,7 +23,7 @@ lovezip=[1，2，3，4，5，3，2，7]
 write lovedict and lovezip into love.lzp
 
 #unzip
-uncomp.py
+unlcomp.py
 
 ##Step2
 read love.lzp
